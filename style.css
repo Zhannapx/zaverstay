@@ -1,0 +1,102 @@
+
+body {
+font-family: 'Montserrat', sans-serif;;
+background: #E5E5E5;
+color:  #AE7C78;
+;
+;
+
+}
+.header-main li {
+display: inline-block;
+
+}
+/* 
+.advantage div{
+display: inline-block;
+margin-top: 10px;
+} */
+
+
+.descr {
+    font-family: 'Playfair Display', serif;
+
+}
+
+.photo {
+box-shadow: inset #AE7C78 60%;
+
+}
+/* 
+.block1 {
+    height: 391px;
+width: 1200px;
+left: 120px;
+top: 2018px;
+border-radius: 0px;
+
+
+} */
+
+.block2 {
+    /* height: 391px;
+    width: 590px;
+    left: 730px;
+    top: 2018px;
+    border-radius: 0px; */
+
+    
+}
+
+.skidka1 {
+    height: 118px;
+    width: 488px;
+    left: 222px;
+    top: 2058px;
+    border-radius: nullpx;
+    font-family: 'Playfair Display', serif;
+font-size: 44px;
+font-style: normal;
+font-weight: 400;
+line-height: 59px;
+letter-spacing: 0.02em;
+text-align: left;
+
+margin-left: 102px;
+color: white;
+}
+
+.skidka2 {
+    height: 145px;
+    width: 387px;
+    left: 222px;
+    top: 2200px;
+    border-radius: nullpx;
+    font-family: 'Montserrat', sans-serif;
+font-size: 24px;
+/* font-style: normal; */
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 102px;
+
+color: white;
+}
+
+.sell {
+background: #AE7C78;
+width: 610px;
+
+}
+
+.footer {
+    height: 97px;
+    width: 1440px;
+    left: 0px;
+    top: 4373px;
+    border-radius: 0px;
+    background: #AE7C78;
+
+
+}
